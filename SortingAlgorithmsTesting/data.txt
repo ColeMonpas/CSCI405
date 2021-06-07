@@ -1,0 +1,192 @@
+For size = 10000, Randomly Sorted, 
+Insertion Sort Average: 10.4
+Shell Sort Average: 0.6
+Shannon Sort Average: 49.0
+
+For size = 10000, Already Sorted, 0.0 percent unsorted
+Insertion Sort Average: 0.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 18.6
+
+For size = 10000, Inversely Sorted, 0.0 percent unsorted
+Insertion Sort Average: 17.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 83.2
+
+------------------------------------
+For size = 20000, Randomly Sorted,
+Insertion Sort Average: 33.8
+Shell Sort Average: 2.0
+Shannon Sort Average: 224.0
+
+For size = 20000, Already Sorted, 0.0 percent unsorted
+Insertion Sort Average: 0.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 100.0
+
+For size = 20000, Inversely Sorted, 0.0 percent unsorted
+Insertion Sort Average: 68.4
+Shell Sort Average: 0.0
+Shannon Sort Average: 342.0
+
+------------------------------------
+For size = 30000, Randomly Sorted,
+Insertion Sort Average: 76.6
+Shell Sort Average: 3.0
+Shannon Sort Average: 503.2
+
+For size = 30000, Already Sorted, 0.0 percent unsorted
+Insertion Sort Average: 0.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 225.6
+
+For size = 30000, Inversely Sorted, 0.0 percent unsorted
+Insertion Sort Average: 154.2
+Shell Sort Average: 0.0
+Shannon Sort Average: 772.8
+
+------------------------------------
+For size = 40000, Randomly Sorted,
+Insertion Sort Average: 137.4
+Shell Sort Average: 4.0
+Shannon Sort Average: 889.4
+
+For size = 40000, Already Sorted, 0.0 percent unsorted
+Insertion Sort Average: 0.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 402.0
+
+For size = 40000, Inversely Sorted, 0.0 percent unsorted
+Insertion Sort Average: 274.8
+Shell Sort Average: 1.0
+Shannon Sort Average: 1376.2
+
+------------------------------------
+For size = 10000, Randomly Sorted,
+Insertion Sort Average: 8.2
+Shell Sort Average: 0.0
+Shannon Sort Average: 55.6
+
+For size = 10000, Already Sorted, 0.25 percent unsorted
+Insertion Sort Average: 2.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 33.4
+
+For size = 10000, Inversely Sorted, 0.25 percent unsorted
+Insertion Sort Average: 14.6
+Shell Sort Average: 0.0
+Shannon Sort Average: 78.2
+
+------------------------------------
+For size = 20000, Randomly Sorted,
+Insertion Sort Average: 34.4
+Shell Sort Average: 2.0
+Shannon Sort Average: 223.0
+
+For size = 20000, Already Sorted, 0.25 percent unsorted
+Insertion Sort Average: 9.0
+Shell Sort Average: 1.0
+Shannon Sort Average: 134.2
+
+For size = 20000, Inversely Sorted, 0.25 percent unsorted
+Insertion Sort Average: 58.8
+Shell Sort Average: 1.0
+Shannon Sort Average: 310.0
+
+------------------------------------
+For size = 30000, Randomly Sorted,
+Insertion Sort Average: 77.0
+Shell Sort Average: 3.0
+Shannon Sort Average: 502.2
+
+For size = 30000, Already Sorted, 0.25 percent unsorted
+Insertion Sort Average: 21.2
+Shell Sort Average: 2.0
+Shannon Sort Average: 302.8
+
+For size = 30000, Inversely Sorted, 0.25 percent unsorted
+Insertion Sort Average: 133.0
+Shell Sort Average: 2.0
+Shannon Sort Average: 696.8
+
+------------------------------------
+For size = 40000, Randomly Sorted,
+Insertion Sort Average: 137.8
+Shell Sort Average: 4.0
+Shannon Sort Average: 892.8
+
+For size = 40000, Already Sorted, 0.25 percent unsorted
+Insertion Sort Average: 38.2
+Shell Sort Average: 3.0
+Shannon Sort Average: 539.0
+
+For size = 40000, Inversely Sorted, 0.25 percent unsorted
+Insertion Sort Average: 236.0
+Shell Sort Average: 3.4
+Shannon Sort Average: 1240.2
+
+------------------------------------
+For size = 10000, Randomly Sorted,
+Insertion Sort Average: 8.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 55.6
+
+For size = 10000, Already Sorted, 0.5 percent unsorted
+Insertion Sort Average: 4.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 39.6
+
+For size = 10000, Inversely Sorted, 0.5 percent unsorted
+Insertion Sort Average: 13.0
+Shell Sort Average: 0.0
+Shannon Sort Average: 71.6
+
+------------------------------------
+For size = 20000, Randomly Sorted,
+Insertion Sort Average: 34.2
+Shell Sort Average: 2.0
+Shannon Sort Average: 223.6
+
+For size = 20000, Already Sorted, 0.5 percent unsorted
+Insertion Sort Average: 16.2
+Shell Sort Average: 1.0
+Shannon Sort Average: 158.4
+
+For size = 20000, Inversely Sorted, 0.5 percent unsorted
+Insertion Sort Average: 52.2
+Shell Sort Average: 1.0
+Shannon Sort Average: 286.6
+
+------------------------------------
+For size = 30000, Randomly Sorted,
+Insertion Sort Average: 77.2
+Shell Sort Average: 3.0
+Shannon Sort Average: 503.4
+
+For size = 30000, Already Sorted, 0.5 percent unsorted
+Insertion Sort Average: 36.2
+Shell Sort Average: 2.0
+Shannon Sort Average: 357.4
+
+For size = 30000, Inversely Sorted, 0.5 percent unsorted
+Insertion Sort Average: 117.8
+Shell Sort Average: 2.2
+Shannon Sort Average: 645.4
+
+------------------------------------
+For size = 40000, Randomly Sorted,
+Insertion Sort Average: 136.4
+Shell Sort Average: 4.0
+Shannon Sort Average: 891.2
+
+For size = 40000, Already Sorted, 0.5 percent unsorted
+Insertion Sort Average: 65.0
+Shell Sort Average: 4.0
+Shannon Sort Average: 637.2
+
+For size = 40000, Inversely Sorted, 0.5 percent unsorted
+Insertion Sort Average: 209.8
+Shell Sort Average: 4.0
+Shannon Sort Average: 1145.2
+
+------------------------------------
